@@ -29,6 +29,9 @@ int main() {
 ```
 
 ---
-| type | badge|
-| ---- |----|
-| algorithm |[![Codeforces](https://badges.joonhyung.xyz/codeforces/cothi.svg)](https://codeforces.com/profile/cothi)</br>[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=codethinking)](https://solved.ac/codethinking) |
+
+| type      | badge                                                                             |
+| --------- | --------------------------------------------------------------------------------- |
+| codeforce | ![Codeforces](https://badges.joonhyung.xyz/codeforces/cothi.svg)                  |
+| solved    | ![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=codethinking) |
+| atcoder   | ![badge](https://crackersamdjam.ca/badges/Atcoder/cothi)                          |

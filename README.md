@@ -27,11 +27,9 @@ int main() {
   me.sayHi();
 }
 ```
-
 ---
-
 | type      | badge                                                                             |
 | --------- | --------------------------------------------------------------------------------- |
-| codeforce | ![Codeforces](https://badges.joonhyung.xyz/codeforces/cothi.svg)                  |
-| solved    | ![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=codethinking) |
 | atcoder   | ![badge](https://crackersamdjam.ca/badges/Atcoder/cothi)                          |
+| codeforce | ![Codeforces](https://badges.joonhyung.xyz/codeforces/cothi.svg)                  |
+| solved    | ![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=codethinking)|

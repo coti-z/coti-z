@@ -30,6 +30,6 @@ int main() {
 ---
 |type| platform      | badge                                                                             |
 |---------| --------- | --------------------------------------------------------------------------------- |
-|problem solving| atcoderv   | ![badge](https://crackersamdjam.ca/badges/Atcoder/cothi)                          |
+|problem solving| atcoder   | ![badge](https://crackersamdjam.ca/badges/Atcoder/cothi)                          |
 |problem solving| codeforce | ![Codeforces](https://badges.joonhyung.xyz/codeforces/cothi.svg)                  |
 |problem solving| solved    | ![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=codethinking)|

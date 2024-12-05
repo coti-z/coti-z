@@ -1,3 +1,6 @@
+# 1. cothi
+
+## (1). intro
 ```c++
 #include <iostream>
 #include <string>
@@ -27,7 +30,7 @@ int main() {
   me.sayHi();
 }
 ```
----
+## (2). badge
 |type| platform      | badge                                                                             |
 |---------| --------- | --------------------------------------------------------------------------------- |
 |problem solving| atcoder   | ![badge](https://crackersamdjam.ca/badges/Atcoder/cothi)                          |

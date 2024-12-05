@@ -1,4 +1,4 @@
-# 1. cothi
+# 1. coti
 
 ## (1). intro
 ```c++
@@ -6,13 +6,13 @@
 #include <string>
 
 using namespace std;
-class Cothi {
+class Coti {
   public:
-    Cothi() {
-      name = "jiung han";
+    Coti() {
+      name = "jiung";
       role = "Software Engineer";
       currentFocus = "I am focusing on backend technologies.";
-      portfolio = "https://cothi.github.io/";
+      portfolio = "https://coti.github.io/";
       blog = "https://wooong-dev.tistory.com/";
     }
   void sayHi() {
@@ -26,13 +26,13 @@ class Cothi {
     string blog;
 };
 int main() {
-  Cothi me;
+  Coti me;
   me.sayHi();
 }
 ```
 ## (2). badge
 |type| platform      | badge                                                                             |
 |---------| --------- | --------------------------------------------------------------------------------- |
-|problem solving| atcoder   | ![badge](https://crackersamdjam.ca/badges/Atcoder/cothi)                          |
+|problem solving| atcoder   | ![badge](https://crackersamdjam.ca/badges/Atcoder/coti)                          |
 |problem solving| codeforce | ![Codeforces](https://badges.joonhyung.xyz/codeforces/cothi.svg)                  |
 |problem solving| solved    | ![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=codethinking)|

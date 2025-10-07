@@ -12,9 +12,13 @@ class Coti {
         .blog = "https://wooong-dev.tistory.com/",
         .portfolio = "https://coti.github.io/"
       };
-      currentFocus = "I am focusing on backend technologies.";
+      currentFocusTech = "I am focusing on backend technologies.";
+      currentFocusCertification = "SQLP (SQL Professional - Korea)"
+      communication = {
+        .email = "jiungdev@gmail.com"
+      }
     }
-    ...
+  ...
 };
 ```
 

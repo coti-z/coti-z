@@ -3,46 +3,32 @@
 ## (1). intro
 
 ```c++
-#include <iostream>
-#include <string>
-
-using namespace std;
 class Coti {
   public:
     Coti() {
       name = "jiung";
       role = "Software Engineer";
+      links = {
+        .blog = "https://wooong-dev.tistory.com/",
+        .portfolio = "https://coti.github.io/"
+      };
       currentFocus = "I am focusing on backend technologies.";
-      portfolio = "https://coti.github.io/";
-      blog = "https://wooong-dev.tistory.com/";
     }
-  void sayHi() {
-    cout << "Hello";
-  }
-  private:
-    string name;
-    string role;
-    string portfolio;
-    string currentFocus;
-    string blog;
+    ...
 };
-int main() {
-  Coti me;
-  me.sayHi();
-}
 ```
 
 ## (2). certifications
 
-| Category      | Certification                                                   |
-| ------------- | --------------------------------------------------------------- |
-| Korea         | 정보처리기사 - NCS (Engineer Information Processing)            |
-| Korea         | 정보보안기사 (Engineer information security)                    |
-| Korea         | 리눅스마스터 1급 (Linux Master - Level 1)                       |
-| Korea         | 컴퓨터 활용능력 1급 (Computer Proficiency - Level 1)            |
-| Korea         | 네트워크 관리사 2급 (Network Administrator - Level 2)           |
-| Korea         | 그래픽기술자격 2급 (Graphic Technology Qualification - Level 2) |
-| International | Microsoft Office Specialist Master                              |
+| Category      | Certification                                                                        |
+| ------------- | ------------------------------------------------------------------------------------ |
+| Korea         | 정보처리기사 - NCS (Engineer Information Processing - National Competency Standards) |
+| Korea         | 정보보안기사 (Engineer information security)                                         |
+| Korea         | 리눅스마스터 1급 (Linux Master - Level 1)                                            |
+| Korea         | 컴퓨터 활용능력 1급 (Computer Proficiency - Level 1)                                 |
+| Korea         | 네트워크 관리사 2급 (Network Administrator - Level 2)                                |
+| Korea         | 그래픽기술자격 2급 (Graphic Technology Qualification - Level 2)                      |
+| International | Microsoft Office Specialist Master                                                   |
 
 ## (3). badge
 

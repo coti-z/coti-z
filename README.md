@@ -1,6 +1,6 @@
-# 1. coti
+## coti
 
-## (1). intro
+### 📌 intro
 
 ```c++
 class Coti {
@@ -18,7 +18,7 @@ class Coti {
 };
 ```
 
-## (2). certifications
+### 📜 certifications
 
 | Category      | Certification                                                                        |
 | ------------- | ------------------------------------------------------------------------------------ |
@@ -30,7 +30,7 @@ class Coti {
 | Korea         | 그래픽기술자격 2급 (Graphic Technology Qualification - Level 2)                      |
 | International | Microsoft Office Specialist Master                                                   |
 
-## (3). badge
+### badge
 
 | type            | platform  | badge                                                                                |
 | --------------- | --------- | ------------------------------------------------------------------------------------ |

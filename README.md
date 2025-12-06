@@ -1,7 +1,5 @@
 ## coti
-
-### 📌 intro
-
+### intro
 ```c++
 class Coti {
   public:
@@ -22,8 +20,15 @@ class Coti {
 };
 ```
 
-### 📜 certifications
+### badge
+| type            | platform  | badge                                                                                |
+| --------------- | --------- | ------------------------------------------------------------------------------------ |
+| problem solving | atcoder   | ![badge](https://crackersamdjam.ca/badges/Atcoder/coti)                              |
+| problem solving | codeforce | ![Codeforces](https://badges.joonhyung.xyz/codeforces/cothi.svg)                     |
+| problem solving | solved    | ![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=codethinking) |
 
+
+### certifications
 | Category      | Certification                                                                        |
 | ------------- | ------------------------------------------------------------------------------------ |
 | Korea         | 정보처리기사 - NCS (Engineer Information Processing - National Competency Standards) |
@@ -33,11 +38,3 @@ class Coti {
 | Korea         | 네트워크 관리사 2급 (Network Administrator - Level 2)                                |
 | Korea         | 그래픽기술자격 2급 (Graphic Technology Qualification - Level 2)                      |
 | International | Microsoft Office Specialist Master                                                   |
-
-### badge
-
-| type            | platform  | badge                                                                                |
-| --------------- | --------- | ------------------------------------------------------------------------------------ |
-| problem solving | atcoder   | ![badge](https://crackersamdjam.ca/badges/Atcoder/coti)                              |
-| problem solving | codeforce | ![Codeforces](https://badges.joonhyung.xyz/codeforces/cothi.svg)                     |
-| problem solving | solved    | ![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=codethinking) |

@@ -1,9 +1,9 @@
-## coti
+## kuro
 ### intro
 ```c++
-class Coti {
+class kuro {
   public:
-    Coti() {
+    kuro() {
       name = "jiung";
       role = "Software Engineer";
       links = {

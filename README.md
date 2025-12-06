@@ -8,7 +8,7 @@ class Coti {
       role = "Software Engineer";
       links = {
         .blog = "https://wooong-dev.tistory.com/",
-        .portfolio = "[PORTFOLIO_LINK](https://drive.google.com/file/d/1Nm7ss-yi9HPQGQO-9Z2ht8j725qPfimC/view?usp=sharing)"
+        .portfolio = "https://drive.google.com/file/d/1Nm7ss-yi9HPQGQO-9Z2ht8j725qPfimC/view?usp=sharing"
       };
       currentFocusTech = "I am focusing on backend technologies.";
       currentFocusCertification = "SQLP (SQL Professional - Korea)"
